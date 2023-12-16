@@ -13,3 +13,5 @@
   #recent-posts > .recent-post-item:not(a):hover::before {
     transform: translateX(100%) skewX(-60deg);
   }
+
+  
