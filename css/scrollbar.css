@@ -1,0 +1,34 @@
+/* 滚动条滑块部分的样式 */
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  border: 2px solid transparent; /* Add border to support transparent spacing in stripes */
+  background-image: repeating-linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.2), /* 条纹颜色，透明度为0.2 */
+    rgba(255, 255, 255, 0.2) 10px, /* 条纹宽度 */
+    transparent 10px,
+    transparent 20px /* 条纹之间的间隔 */
+  ),
+  linear-gradient(
+    45deg,
+    rgba(153, 102, 255, 1), /* 兰花紫色起始色 */
+    rgba(255, 159, 132, 1)  /* 浅桔红色结束色 */
+  );
+  background-clip: content-box; /* Make sure the stripes are only applied inside the content area */
+}
+
+/* 滚动条轨道部分的样式 */
+::-webkit-scrollbar-track {
+  border-radius: 10px;
+  background-image: linear-gradient(
+    to right,
+    rgb(168, 168, 249), /* 淡蓝色起始色 */
+    rgb(250, 230, 230)  /* 淡红色结束色 */
+  );
+}
+
+/* 滚动条本体的宽度和高度样式 */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
