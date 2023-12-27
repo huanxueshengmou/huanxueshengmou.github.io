@@ -1,5 +1,5 @@
 function danmu() {
-    if (location.pathname != '/comments/' || document.body.clientWidth < 768) return //判断是否是留言板页面
+    if (location.pathname != '/collect/' || document.body.clientWidth < 768) return //判断是否是留言板页面
     console.log(1);
     const Danmaku = new EasyDanmaku({
       page: '/comments/', // 即留言板地址
