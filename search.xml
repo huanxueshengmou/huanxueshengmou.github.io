@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>2023年度总结</title>
+      <link href="/posts/62c6c373.html"/>
+      <url>/posts/62c6c373.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><div class="tabs" id="uniquename1"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="uniquename1-1"><i class="icon"></i>前言</button></ul><div class="tab-contents"><div class="tab-item-content active" id="uniquename1-1"><p>本文记录关于我这一年的学习情况，大多数以obsidian的笔记作为主线，希望通过这条主线快速地回顾这一年的进程。</p></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="anzhiyufont anzhiyu-icon-arrow-up"></i></button></div></div><h3 id="回顾"><a href="#回顾" class="headerlink" title="回顾"></a>回顾</h3><div class="tabs" id="uniquename2"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="uniquename2-1"><i class="icon"></i>回顾</button></ul><div class="tab-contents"><div class="tab-item-content active" id="uniquename2-1"><div class="timeline undefined"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2023</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>04-10</p></div></div><div class='timeline-item-content'><p>CSAPP</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>05-7</p></div></div><div class='timeline-item-content'><p>数据结构</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>08-10</p></div></div><div class='timeline-item-content'><p>侯捷面向对象</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>09-18</p></div></div><div class='timeline-item-content'><p>c++ Primer</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>09-25</p></div></div><div class='timeline-item-content'><p>侯捷STL源码剖析</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>10-1</p></div></div><div class='timeline-item-content'><p>Effective modern C++</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>10-20</p></div></div><div class='timeline-item-content'><p>Effective C++</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>11-10</p></div></div><div class='timeline-item-content'><p>计算机网络</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>11-25</p></div></div><div class='timeline-item-content'><p>More effective c++</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>12-05</p></div></div><div class='timeline-item-content'><p>拥有第一个博客</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>12-13</p></div></div><div class='timeline-item-content'><p>拥有第二个博客</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>12-23</p></div></div><div class='timeline-item-content'><p>CS144</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>12-30</p></div></div><div class='timeline-item-content'><p>git学习</p></div></div></div><div class="timeline undefined"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>2024</p></div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>1-7</p></div></div><div class='timeline-item-content'><p>CMake学习</p></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>1-7</p></div></div><div class='timeline-item-content'><p>图论</p></div></div></div></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="anzhiyufont anzhiyu-icon-arrow-up"></i></button></div></div><p><img src="https://cdn.jsdelivr.net/gh/huanxueshengmou/picture-host/动画-min.gif" alt=""></p><h3 id="心里话"><a href="#心里话" class="headerlink" title="心里话"></a>心里话</h3><div class="tabs" id="uniquename3"><ul class="nav-tabs"><button type="button" class="tab  active" data-href="uniquename3-1"><i class="icon"></i>心里话</button></ul><div class="tab-contents"><div class="tab-item-content active" id="uniquename3-1"><p>回顾这一年我感觉学得是挺多的，但是很多的书籍仍然需要去沉淀，慢慢挖掘其中的深邃。然后对于平时，个人感觉也是挺水的，如果多努力一点可能能对知识掌握更深更广。希望24年能更好的努力吧，项目是一个没做，太卢瑟了，加油加油！</p></div></div><div class="tab-to-top"><button type="button" aria-label="scroll to top"><i class="anzhiyufont anzhiyu-icon-arrow-up"></i></button></div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 年度 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 总结 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>CMake_opencv</title>
       <link href="/posts/undefined.html"/>
       <url>/posts/undefined.html</url>
@@ -192,6 +217,12 @@
           
       </categories>
       
+      
+        <tags>
+            
+            <tag> CMake </tag>
+            
+        </tags>
       
     </entry>
     
