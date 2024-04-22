@@ -3,11 +3,11 @@
   <title>幻雪的博客</title>
   
   <subtitle>鱼跃此时，花开彼岸。</subtitle>
-  <link href="https://example.com/atom.xml" rel="self"/>
+  <link href="https://huanxueblog.top/atom.xml" rel="self"/>
   
-  <link href="https://example.com/"/>
+  <link href="https://huanxueblog.top/"/>
   <updated>2024-04-21T10:02:54.571Z</updated>
-  <id>https://example.com/</id>
+  <id>https://huanxueblog.top/</id>
   
   <author>
     <name>幻雪</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>一文让你理解网络阻塞与非阻塞和多路io复用</title>
-    <link href="https://example.com/posts/a8fad53.html"/>
-    <id>https://example.com/posts/a8fad53.html</id>
+    <link href="https://huanxueblog.top/posts/a8fad53.html"/>
+    <id>https://huanxueblog.top/posts/a8fad53.html</id>
     <published>2024-04-21T09:55:33.000Z</published>
     <updated>2024-04-21T10:02:54.571Z</updated>
     
@@ -30,17 +30,17 @@
     
     
     
-    <category term="Socket" scheme="https://example.com/categories/Socket/"/>
+    <category term="Socket" scheme="https://huanxueblog.top/categories/Socket/"/>
     
     
-    <category term="Socket" scheme="https://example.com/tags/Socket/"/>
+    <category term="Socket" scheme="https://huanxueblog.top/tags/Socket/"/>
     
   </entry>
   
   <entry>
     <title>2023年度总结</title>
-    <link href="https://example.com/posts/62c6c373.html"/>
-    <id>https://example.com/posts/62c6c373.html</id>
+    <link href="https://huanxueblog.top/posts/62c6c373.html"/>
+    <id>https://huanxueblog.top/posts/62c6c373.html</id>
     <published>2024-01-10T10:26:39.000Z</published>
     <updated>2024-01-10T15:31:16.782Z</updated>
     
@@ -51,17 +51,17 @@
     
     
     
-    <category term="年度" scheme="https://example.com/categories/%E5%B9%B4%E5%BA%A6/"/>
+    <category term="年度" scheme="https://huanxueblog.top/categories/%E5%B9%B4%E5%BA%A6/"/>
     
     
-    <category term="总结" scheme="https://example.com/tags/%E6%80%BB%E7%BB%93/"/>
+    <category term="总结" scheme="https://huanxueblog.top/tags/%E6%80%BB%E7%BB%93/"/>
     
   </entry>
   
   <entry>
     <title>CMake_opencv</title>
-    <link href="https://example.com/posts/undefined.html"/>
-    <id>https://example.com/posts/undefined.html</id>
+    <link href="https://huanxueblog.top/posts/undefined.html"/>
+    <id>https://huanxueblog.top/posts/undefined.html</id>
     <published>2024-01-08T12:24:53.000Z</published>
     <updated>2024-01-08T12:39:24.315Z</updated>
     
@@ -72,17 +72,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CMake优雅地使用环境变量</title>
-    <link href="https://example.com/posts/6f6925cb.html"/>
-    <id>https://example.com/posts/6f6925cb.html</id>
+    <link href="https://huanxueblog.top/posts/6f6925cb.html"/>
+    <id>https://huanxueblog.top/posts/6f6925cb.html</id>
     <published>2024-01-08T12:23:27.000Z</published>
     <updated>2024-01-08T12:39:06.057Z</updated>
     
@@ -93,17 +93,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CMake常用指令推荐</title>
-    <link href="https://example.com/posts/a767a042.html"/>
-    <id>https://example.com/posts/a767a042.html</id>
+    <link href="https://huanxueblog.top/posts/a767a042.html"/>
+    <id>https://huanxueblog.top/posts/a767a042.html</id>
     <published>2024-01-08T12:18:35.000Z</published>
     <updated>2024-01-08T12:39:12.522Z</updated>
     
@@ -114,17 +114,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CMake降低耦合</title>
-    <link href="https://example.com/posts/439c322c.html"/>
-    <id>https://example.com/posts/439c322c.html</id>
+    <link href="https://huanxueblog.top/posts/439c322c.html"/>
+    <id>https://huanxueblog.top/posts/439c322c.html</id>
     <published>2024-01-08T12:09:51.000Z</published>
     <updated>2024-01-08T12:39:10.007Z</updated>
     
@@ -135,17 +135,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CMake在linux和win的运行执行文件不同之处</title>
-    <link href="https://example.com/posts/aaea630f.html"/>
-    <id>https://example.com/posts/aaea630f.html</id>
+    <link href="https://huanxueblog.top/posts/aaea630f.html"/>
+    <id>https://huanxueblog.top/posts/aaea630f.html</id>
     <published>2024-01-08T12:06:06.000Z</published>
     <updated>2024-01-08T12:07:56.218Z</updated>
     
@@ -156,17 +156,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CMake动态库</title>
-    <link href="https://example.com/posts/cawdawda5465745.html"/>
-    <id>https://example.com/posts/cawdawda5465745.html</id>
+    <link href="https://huanxueblog.top/posts/cawdawda5465745.html"/>
+    <id>https://huanxueblog.top/posts/cawdawda5465745.html</id>
     <published>2024-01-08T11:45:53.000Z</published>
     <updated>2024-01-08T12:39:18.907Z</updated>
     
@@ -177,17 +177,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CMake静态库</title>
-    <link href="https://example.com/posts/cawdawda.html"/>
-    <id>https://example.com/posts/cawdawda.html</id>
+    <link href="https://huanxueblog.top/posts/cawdawda.html"/>
+    <id>https://huanxueblog.top/posts/cawdawda.html</id>
     <published>2024-01-08T11:29:33.000Z</published>
     <updated>2024-01-08T12:39:17.799Z</updated>
     
@@ -198,17 +198,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CMake如何统一编译管理多个.cpp文件</title>
-    <link href="https://example.com/posts/63b0d074.html"/>
-    <id>https://example.com/posts/63b0d074.html</id>
+    <link href="https://huanxueblog.top/posts/63b0d074.html"/>
+    <id>https://huanxueblog.top/posts/63b0d074.html</id>
     <published>2024-01-08T11:20:45.000Z</published>
     <updated>2024-01-08T12:42:54.575Z</updated>
     
@@ -219,17 +219,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CMake_message，set，list的用法</title>
-    <link href="https://example.com/posts/4cec0d6e.html"/>
-    <id>https://example.com/posts/4cec0d6e.html</id>
+    <link href="https://huanxueblog.top/posts/4cec0d6e.html"/>
+    <id>https://huanxueblog.top/posts/4cec0d6e.html</id>
     <published>2024-01-08T10:59:03.000Z</published>
     <updated>2024-01-08T12:39:13.694Z</updated>
     
@@ -240,17 +240,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CMake_流程控制，函数和宏</title>
-    <link href="https://example.com/posts/7dccf0e3.html"/>
-    <id>https://example.com/posts/7dccf0e3.html</id>
+    <link href="https://huanxueblog.top/posts/7dccf0e3.html"/>
+    <id>https://huanxueblog.top/posts/7dccf0e3.html</id>
     <published>2024-01-08T10:49:08.000Z</published>
     <updated>2024-01-08T12:39:14.668Z</updated>
     
@@ -261,17 +261,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CMake处理项目流程（处理项目时究竟干了些什么事情）</title>
-    <link href="https://example.com/posts/caf7ca08.html"/>
-    <id>https://example.com/posts/caf7ca08.html</id>
+    <link href="https://huanxueblog.top/posts/caf7ca08.html"/>
+    <id>https://huanxueblog.top/posts/caf7ca08.html</id>
     <published>2024-01-08T10:45:39.000Z</published>
     <updated>2024-01-08T12:39:22.992Z</updated>
     
@@ -282,17 +282,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CMake如何编译一个.cpp文件</title>
-    <link href="https://example.com/posts/ed2a79d8.html"/>
-    <id>https://example.com/posts/ed2a79d8.html</id>
+    <link href="https://huanxueblog.top/posts/ed2a79d8.html"/>
+    <id>https://huanxueblog.top/posts/ed2a79d8.html</id>
     <published>2024-01-08T10:26:44.000Z</published>
     <updated>2024-01-08T12:39:16.718Z</updated>
     
@@ -303,17 +303,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>从Makefile到CMake</title>
-    <link href="https://example.com/posts/caf7ca09.html"/>
-    <id>https://example.com/posts/caf7ca09.html</id>
+    <link href="https://huanxueblog.top/posts/caf7ca09.html"/>
+    <id>https://huanxueblog.top/posts/caf7ca09.html</id>
     <published>2024-01-08T10:12:39.000Z</published>
     <updated>2024-01-25T10:30:09.827Z</updated>
     
@@ -324,17 +324,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CMake是一个怎么样的工具</title>
-    <link href="https://example.com/posts/7e66a467.html"/>
-    <id>https://example.com/posts/7e66a467.html</id>
+    <link href="https://huanxueblog.top/posts/7e66a467.html"/>
+    <id>https://huanxueblog.top/posts/7e66a467.html</id>
     <published>2024-01-08T08:45:39.742Z</published>
     <updated>2024-01-08T12:39:11.273Z</updated>
     
@@ -345,17 +345,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CMake学习分享-前言</title>
-    <link href="https://example.com/posts/e1539f30.html"/>
-    <id>https://example.com/posts/e1539f30.html</id>
+    <link href="https://huanxueblog.top/posts/e1539f30.html"/>
+    <id>https://huanxueblog.top/posts/e1539f30.html</id>
     <published>2024-01-08T07:01:05.000Z</published>
     <updated>2024-01-08T12:39:06.998Z</updated>
     
@@ -366,17 +366,17 @@
     
     
     
-    <category term="CMake" scheme="https://example.com/categories/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/categories/CMake/"/>
     
     
-    <category term="CMake" scheme="https://example.com/tags/CMake/"/>
+    <category term="CMake" scheme="https://huanxueblog.top/tags/CMake/"/>
     
   </entry>
   
   <entry>
     <title>CS144-5</title>
-    <link href="https://example.com/posts/d466e783.html"/>
-    <id>https://example.com/posts/d466e783.html</id>
+    <link href="https://huanxueblog.top/posts/d466e783.html"/>
+    <id>https://huanxueblog.top/posts/d466e783.html</id>
     <published>2023-12-15T13:08:12.000Z</published>
     <updated>2023-12-16T05:59:39.307Z</updated>
     
@@ -387,17 +387,17 @@
     
     
     
-    <category term="C++" scheme="https://example.com/categories/C/"/>
+    <category term="C++" scheme="https://huanxueblog.top/categories/C/"/>
     
     
-    <category term="CS144" scheme="https://example.com/tags/CS144/"/>
+    <category term="CS144" scheme="https://huanxueblog.top/tags/CS144/"/>
     
   </entry>
   
   <entry>
     <title>CS144-4</title>
-    <link href="https://example.com/posts/a361d715.html"/>
-    <id>https://example.com/posts/a361d715.html</id>
+    <link href="https://huanxueblog.top/posts/a361d715.html"/>
+    <id>https://huanxueblog.top/posts/a361d715.html</id>
     <published>2023-12-15T13:08:06.000Z</published>
     <updated>2023-12-15T15:59:19.618Z</updated>
     
@@ -408,17 +408,17 @@
     
     
     
-    <category term="C++" scheme="https://example.com/categories/C/"/>
+    <category term="C++" scheme="https://huanxueblog.top/categories/C/"/>
     
     
-    <category term="CS144" scheme="https://example.com/tags/CS144/"/>
+    <category term="CS144" scheme="https://huanxueblog.top/tags/CS144/"/>
     
   </entry>
   
   <entry>
     <title>CS144-3</title>
-    <link href="https://example.com/posts/3d0542b6.html"/>
-    <id>https://example.com/posts/3d0542b6.html</id>
+    <link href="https://huanxueblog.top/posts/3d0542b6.html"/>
+    <id>https://huanxueblog.top/posts/3d0542b6.html</id>
     <published>2023-12-15T13:07:58.000Z</published>
     <updated>2023-12-15T17:13:51.940Z</updated>
     
@@ -429,10 +429,10 @@
     
     
     
-    <category term="C++" scheme="https://example.com/categories/C/"/>
+    <category term="C++" scheme="https://huanxueblog.top/categories/C/"/>
     
     
-    <category term="CS144" scheme="https://example.com/tags/CS144/"/>
+    <category term="CS144" scheme="https://huanxueblog.top/tags/CS144/"/>
     
   </entry>
   
