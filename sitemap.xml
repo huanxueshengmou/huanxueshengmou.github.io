@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://huanxueblog.top/posts/a3bc84e3.html</loc>
+    
+    <lastmod>2024-05-12</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://huanxueblog.top/posts/a8fad53.html</loc>
     
     <lastmod>2024-04-21</lastmod>
@@ -391,7 +400,7 @@
 
   <url>
     <loc>https://huanxueblog.top/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -399,28 +408,35 @@
   
   <url>
     <loc>https://huanxueblog.top/tags/CMake/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://huanxueblog.top/tags/CS144/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://huanxueblog.top/tags/Socket/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://huanxueblog.top/tags/%E6%80%BB%E7%BB%93/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://huanxueblog.top/tags/MySql/</loc>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -429,28 +445,35 @@
   
   <url>
     <loc>https://huanxueblog.top/categories/CMake/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://huanxueblog.top/categories/C/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://huanxueblog.top/categories/Socket/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://huanxueblog.top/categories/%E5%B9%B4%E5%BA%A6/</loc>
-    <lastmod>2024-04-28</lastmod>
+    <lastmod>2024-05-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://huanxueblog.top/categories/MySql/</loc>
+    <lastmod>2024-05-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
